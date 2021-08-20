@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alejandropallares
-- 👀 I’m interested in iOS Development,Maths and Entrepreneurship! 
-- 🌱 I’m currently learning Applied mathematics at UNAM
+- 👀 I’m interested in IA,Maths and Entrepreneurship! 
+- 🌱 I’m currently learning Applied mathematics and compuatation at @UNAM_MX
 - 📫 How to reach me, my twitter: @alexpallares_
 
 <!---
