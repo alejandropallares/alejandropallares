@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alejandropallares
-- 👀 I’m interested in iOS 
+- 👀 I’m interested in iOS Development
 - 📫 How to reach me, my twitter: @alexpallares_
 
 <!---
